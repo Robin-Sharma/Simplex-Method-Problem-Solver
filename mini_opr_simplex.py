@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-This is a temporary script file.
+Author: Robin Sharma
+Dept. of Mechanical Engineering
+IIT JAMMU
 """
 
 while True:
